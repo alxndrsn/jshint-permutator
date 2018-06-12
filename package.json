@@ -1,0 +1,15 @@
+{
+  "name": "jshint-function-override",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jshint *.js *.json .jshintrc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "lodash": "^4.17.10"
+  }
+}
